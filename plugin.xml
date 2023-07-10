@@ -5,7 +5,7 @@
         Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning
 	 </description>
   <engines>
-    <engine name="cordova" version="=11.0.0"/>
+    <engine name="cordova" version=">=11.0.0"/>
   </engines>
   <dependency id="cordova-plugin-file" version="=7.0.0"/>
   <preference name="AndroidBlacklistSecureSocketProtocols" default="SSLv3,TLSv1"/>
